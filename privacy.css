@@ -1,0 +1,29 @@
+@charset "utf-8";
+h1{
+	color:yellow;
+}
+h2{font-size: 20px;
+	color:azure;
+	text-align:left;
+	margin-top: 30px;
+}
+body {
+	color:white;
+	
+    margin:50px 100px;
+	background-image: url("gazou/AL101_L.jpg");
+    background-position: 0% top;
+    background-repeat: repeat;
+}
+a:link{
+	color:white;
+}
+.midasi{
+	color:gold;
+}
+h5{font-size: 20px;
+}
+#footer{
+	color: white;
+	text-align: right;
+}

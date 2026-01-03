@@ -1,0 +1,19 @@
+@charset "utf-8";
+h1{
+	color:yellow;
+}
+body {
+    font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+    color:white;
+	margin: 0;
+    padding: 0;
+	background-image: url("gazou/AL101_L.jpg");
+    background-position: 0% top;
+    background-repeat: repeat;
+}
+h2{	color:white;
+}
+small{
+	color: white;
+	text-align: right;
+}
